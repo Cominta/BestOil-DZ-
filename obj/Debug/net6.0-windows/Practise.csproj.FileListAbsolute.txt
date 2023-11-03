@@ -1,0 +1,17 @@
+C:\Users\Roman\Desktop\c#\Practise\bin\Debug\net6.0-windows\Practise.exe
+C:\Users\Roman\Desktop\c#\Practise\bin\Debug\net6.0-windows\Practise.deps.json
+C:\Users\Roman\Desktop\c#\Practise\bin\Debug\net6.0-windows\Practise.runtimeconfig.json
+C:\Users\Roman\Desktop\c#\Practise\bin\Debug\net6.0-windows\Practise.dll
+C:\Users\Roman\Desktop\c#\Practise\bin\Debug\net6.0-windows\Practise.pdb
+C:\Users\Roman\Desktop\c#\Practise\obj\Debug\net6.0-windows\Practise.csproj.AssemblyReference.cache
+C:\Users\Roman\Desktop\c#\Practise\obj\Debug\net6.0-windows\Practise.csproj.GenerateResource.cache
+C:\Users\Roman\Desktop\c#\Practise\obj\Debug\net6.0-windows\Practise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roman\Desktop\c#\Practise\obj\Debug\net6.0-windows\Practise.AssemblyInfoInputs.cache
+C:\Users\Roman\Desktop\c#\Practise\obj\Debug\net6.0-windows\Practise.AssemblyInfo.cs
+C:\Users\Roman\Desktop\c#\Practise\obj\Debug\net6.0-windows\Practise.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Desktop\c#\Practise\obj\Debug\net6.0-windows\Practise.dll
+C:\Users\Roman\Desktop\c#\Practise\obj\Debug\net6.0-windows\refint\Practise.dll
+C:\Users\Roman\Desktop\c#\Practise\obj\Debug\net6.0-windows\Practise.pdb
+C:\Users\Roman\Desktop\c#\Practise\obj\Debug\net6.0-windows\Practise.genruntimeconfig.cache
+C:\Users\Roman\Desktop\c#\Practise\obj\Debug\net6.0-windows\ref\Practise.dll
+C:\Users\Roman\Desktop\c#\Practise\obj\Debug\net6.0-windows\Practise.Form.resources
